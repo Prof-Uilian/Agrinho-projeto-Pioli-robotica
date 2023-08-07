@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Nós Somos do colégio estadual José Pioli</h1>
-<h3 align="center">Projeto Selecionado para o concurso do Agrido 2023</h3>
+<h3 align="center">Projeto Selecionado para o concurso do Agrinho 2023</h3>
 
 
 </p>
